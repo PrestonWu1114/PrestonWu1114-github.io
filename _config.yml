@@ -25,7 +25,9 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-social: 
+social:
+  - title: github
+    url: https://github.com/PrestonWu1114
   - title: instagram
     url: https://www.instagram.com/pressedonwu/
   - title: linkedin
